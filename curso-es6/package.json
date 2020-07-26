@@ -11,6 +11,7 @@
   "scripts": {
     "dev": "babel ./main.js -o ./bundle.js -w",
     "exercicio01": "babel ./exercicios/modulo01/exercicio01.js -o ./exercicios/modulo01/bundle.js -w",
-    "exercicio02": "babel ./exercicios/modulo01/exercicio02.js -o ./exercicios/modulo01/bundle.js -w"
+    "exercicio02": "babel ./exercicios/modulo01/exercicio02.js -o ./exercicios/modulo01/bundle.js -w",
+    "exercicio03": "babel ./exercicios/modulo01/exercicio03.js -o ./exercicios/modulo01/bundle.js -w"
   }
 }
