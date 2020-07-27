@@ -22,4 +22,4 @@ console.log(newArr);
 
 const usuario = {nome: 'Diego', idade: 23};
 const mostraIdade = () => usuario.idade;
-console.log(mostraIdade);
+console.log(mostraIdade());

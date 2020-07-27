@@ -25,4 +25,4 @@ var mostraIdade = function mostraIdade() {
   return usuario.idade;
 };
 
-console.log(mostraIdade);
+console.log(mostraIdade());
