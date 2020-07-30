@@ -13,6 +13,7 @@
     "exercicio01": "babel ./exercicios/modulo01/exercicio01.js -o ./exercicios/modulo01/bundle.js -w",
     "exercicio02": "babel ./exercicios/modulo01/exercicio02.js -o ./exercicios/modulo01/bundle.js -w",
     "exercicio03": "babel ./exercicios/modulo01/exercicio03.js -o ./exercicios/modulo01/bundle.js -w",
-    "exercicio04": "babel ./exercicios/modulo01/exercicio04.js -o ./exercicios/modulo01/bundle.js -w"
+    "exercicio04": "babel ./exercicios/modulo01/exercicio04.js -o ./exercicios/modulo01/bundle.js -w",
+    "exercicio05": "babel ./exercicios/modulo01/exercicio05.js -o ./exercicios/modulo01/bundle.js -w"
   }
 }
