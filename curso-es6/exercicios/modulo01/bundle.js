@@ -54,9 +54,9 @@ var usuario2 = _objectSpread(_objectSpread({}, usuario), {}, {
 });
 
 var usuario3 = _objectSpread(_objectSpread({}, usuario), {}, {
-  endereco: {
+  endereco: _objectSpread(_objectSpread({}, usuario.endereco), {}, {
     cidade: 'Lontras'
-  }
+  })
 });
 
 console.log(usuario2);

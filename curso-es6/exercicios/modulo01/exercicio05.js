@@ -45,7 +45,7 @@ const usuario = {
 };
 
 const usuario2 = {...usuario, nome: 'Gabriel'};
-const usuario3 = {...usuario, endereco: {cidade: 'Lontras'}};
+const usuario3 = {...usuario, endereco: {...usuario.endereco, cidade: 'Lontras'}};
 
 console.log(usuario2);
 console.log(usuario3);
